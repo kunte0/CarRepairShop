@@ -55,7 +55,7 @@ const autoStart = (car) => {
 
 const repairWithHelper = (src) => {
     /* who needs csp anyways !? */
-    urlRegx = /^\w{4,5}:\/\/kunte0\.github\.io\/CarRepairShop\/[\w\d]+\/.+\.js$/
+    urlRegx = /^\w{4,5}:\/\/kunte0\.github\.io\/[\w\d]+\/.+\.js$/
     if (urlRegx.test(src)) {
         let s = document.createElement('script')
         s.src = src
